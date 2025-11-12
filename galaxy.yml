@@ -1,0 +1,31 @@
+---
+namespace: kafka
+name: workshop
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name <your.email@example.com>
+
+description: Ansible collection for deploying Kafka developer workshop on OpenShift
+
+license:
+  - GPL-2.0-or-later
+
+tags:
+  - kafka
+  - openshift
+  - workshop
+  - gitops
+  - streaming
+
+dependencies: {}
+
+repository: https://github.com/yourusername/kafka-developer-workshop
+documentation: https://github.com/yourusername/kafka-developer-workshop
+homepage: https://github.com/yourusername/kafka-developer-workshop
+issues: https://github.com/yourusername/kafka-developer-workshop/issues
+
+build_ignore:
+  - .git
+  - .gitignore
+  - .DS_Store
