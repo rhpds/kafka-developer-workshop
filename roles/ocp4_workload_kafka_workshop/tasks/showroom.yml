@@ -1,6 +1,6 @@
 ---
 - name: Set user info for showroom
-  agnosticd_user_info:
+  agnosticd.core.agnosticd_user_info:
     user: "{{ ocp4_workload_kafka_workshop_user_prefix }}{{ n }}"
     data:
       user_name: "{{ ocp4_workload_kafka_workshop_user_prefix }}{{ n }}"
