@@ -157,7 +157,7 @@ ocp4_workload_kafka_workshop_workshop_application_name: kafka-workshop
 ocp4_workload_kafka_workshop_workshop_namespace: openshift-operators
 
 ocp4_workload_kafka_workshop_workshop_gitops_repo: https://github.com/streams-kafka-workshop/helm.git
-ocp4_workload_kafka_workshop_workshop_gitops_repo_tag: Apicurio-operator-fix
+ocp4_workload_kafka_workshop_workshop_gitops_repo_tag: main
 ocp4_workload_kafka_workshop_workshop_gitops_repo_path: kafka-workshop
 
 # ------------------------------------------------
